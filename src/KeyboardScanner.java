@@ -25,7 +25,7 @@ public class KeyboardScanner {
 		System.out.print(",the multiplication of "+num1);
 		System.out.print(" and "+float1);
 		System.out.print(" is "+float2);
-	
+		scanner.close();
 	}
 
 }
